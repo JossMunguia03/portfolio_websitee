@@ -77,3 +77,13 @@ p {
     background: #005582;
     transform: scale(1.05);
 }
+.testimonials {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.testimonial {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
